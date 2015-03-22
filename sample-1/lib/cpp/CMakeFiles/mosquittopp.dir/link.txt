@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -fPIC    -shared -Wl,-soname,libmosquittopp.so.1 -o libmosquittopp.so.1.4 CMakeFiles/mosquittopp.dir/mosquittopp.cpp.o  -L/home/subho/work/github/mosquitto-1.4/lib -lmosquitto -Wl,-rpath,/home/subho/work/github/mosquitto-1.4/lib: 
